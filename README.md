@@ -9,24 +9,32 @@ Link for tutorial:
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend#step-7-%E2%80%94-viewing-recipes
 
 * Ruby version
-  2.6.0
+
+  ```2.6.0```
 
 * Rails version
-  6.0.0
+  
+  ```6.0.0```
 
 * System dependencies
   Yarn Package manager
   PostgreSQL
 
 * Configuration
-  bundle install
-  yarn install
+
+  ```bundle install```
+
+  ```yarn install```
 
 * Database creation
-  rails db:create db:migrate db:seed
+  
+  ```rails db:create db:migrate db:seed```
 
 * Run app with
-  rails s
+  
+  ```rails s```
+  
+ * Address below in browser to view application
   http:localhost:3000/
 
 * Conclusion
